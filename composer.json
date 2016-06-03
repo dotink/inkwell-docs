@@ -23,7 +23,7 @@
 	"extra": {
 		"opus": {
 			"inkwell/framework": {
-				"/": "docs/"
+				"/": "docs"
 			}
 		}
 	}
