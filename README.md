@@ -2,4 +2,4 @@
 
 ## Guides
 
-- [Quick Start]('quick-start.md')
+- [Quick Start](quick-start.md)
