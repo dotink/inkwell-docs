@@ -1,0 +1,30 @@
+{
+	"name": "dotink/inkwell-docs",
+	"description": "The documentation for inKWell",
+	"keywords": ["documentation"],
+	"license": "AGPL-3.0",
+	"type": "opus-package",
+	"authors": [
+		{
+			"name": "Matthew J. Sahagian",
+			"email": "msahagian@dotink.org",
+			"role": "Lead Architect / Developer"
+		}
+	],
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "http://packages.dotink.org"
+		}
+	],
+	"config": {
+		"secure-http": false
+	},
+	"extra": {
+		"opus": {
+			"inkwell/framework": {
+				"/": "docs/"
+			}
+		}
+	}
+}
