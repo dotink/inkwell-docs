@@ -6,7 +6,7 @@ traditional routers with a lot more flexibility.
 ## Installation
 
 ```bash
-composer require dotink/inkwell-router
+composer require dotink/inkwell-routing
 ```
 
 ## Basic Usage
